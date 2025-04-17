@@ -48,7 +48,9 @@
         "editingStatus": "InProgress",
         "testCaseId": "9856f3d1-7b45-4e7f-ba84-6b42491f52d7",
         "dataVariationFilePath": ".variations\\Main.json",
+        "executionTemplatePath": ".templates\\ExecutionTemplate1.xaml",
         "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase.xaml"
       },
@@ -56,11 +58,15 @@
         "editingStatus": "InProgress",
         "testCaseId": "647a732f-3dd1-4778-bc34-f9ce9ee57a45",
         "dataVariationFilePath": ".variations\\Main_1.json",
-        "executionTemplatePath": "Test With Timeout (UiPath.Testing.Activities);UiPath.Testing.Activities;Test With Timeout.xaml",
+        "executionTemplatePath": ".templates\\ExecutionTemplate1.xaml",
         "testCaseType": "TestCase",
-        "executionTemplateType": "PackageFileTemplate",
+        "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase1.xaml"
+      },
+      {
+        "templateType": "ExecutionTemplate",
+        "fileName": ".templates\\ExecutionTemplate1.xaml"
       }
     ],
     "saveToCloud": false
