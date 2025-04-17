@@ -45,7 +45,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "9856f3d1-7b45-4e7f-ba84-6b42491f52d7",
         "dataVariationFilePath": ".variations\\Main.json",
         "executionTemplatePath": ".templates\\ExecutionTemplate1.xaml",
@@ -55,7 +55,7 @@
         "fileName": "TestCase.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "647a732f-3dd1-4778-bc34-f9ce9ee57a45",
         "dataVariationFilePath": ".variations\\Main_1.json",
         "executionTemplatePath": ".templates\\ExecutionTemplate1.xaml",
